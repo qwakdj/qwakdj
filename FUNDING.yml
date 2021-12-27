@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+ git config --global user.name "qwakdj"
+github: # Replace with up to 4 GitHub Sponsors-enabled qwakdj e.g., [qwakdj 1,qwakdj 2]
+patreon: # Replace with a single Patreon qwakdj
+open_collective: # Replace with a single Open Collective qwakdj
+ko_fi: # Replace with a single Ko-fi qwakdj
+tidelift: # Replace with a single Tidelift platform-name/packag-name.qwakdj., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name.qwakdj., cloud-foundry
+liberapay: # Replace with a single Liberapay qwakdj
+issuehunt: # Replace with a single IssueHunt qwakdj
+otechie: # Replace with a single Otechie qwakdj
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+https://github.com/qwakdj/qwakdj.git
